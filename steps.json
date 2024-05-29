@@ -1,14 +1,14 @@
 [
     {
-        id: "d9if",
-        description: "Entender o problema do cliente"
+        "id": "d9if",
+        "description": "Entender o problema do cliente"
     },
     {
-        id: "0s8d",
-        description: "Desenvolver a solução do problema",
+        "id": "0s8d",
+        "description": "Desenvolver a solução do problema",
     },
     {
-        id: "d6fy",
-        description: "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
+        "id": "d6fy",
+        "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
     },
 ]
