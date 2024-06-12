@@ -1,5 +1,5 @@
-{
-  "Search": [
+
+ [
     {
       "Title": "Jurassic Park",
       "Year": "1993",
@@ -70,7 +70,7 @@
       "Type": "game",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjJmOTU3NzQtODBhOS00ZjRhLTk5MDctOWNlYTMwMzM5YTdhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
     }
-  ],
-  "totalResults": "88",
+  ]
+ 
   "Response": "True"
 }
